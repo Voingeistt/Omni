@@ -1,6 +1,6 @@
 # Omni Voice Assistant 🗣️🤖✨
 
-![Omni Logo](Omni.png)
+![Omni Logo](Omni.jpeg)
 
 **Your Advanced AI Voice Companion with a Sci-Fi GUI, Powered by Local LLMs**
 
